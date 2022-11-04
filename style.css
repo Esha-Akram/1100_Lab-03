@@ -20,16 +20,16 @@
     text-decoration: none;
     color:white;
     font-weight: bold;
-    font-size: 17;
+    font-size: 16;
     display: block;
-    padding: 20px 93.3px;
+    padding: 20px 90.5px;
 }
 #nav-bar a:hover{
     background-color:#89e4a2;
 }
 #image img{
     height: 600px;
-    width: 1265px;
+    width: 1217px;
 }
 #header h1{
     color: #89e4a2;
